@@ -8,4 +8,4 @@ the data structures.
 
 Evaluation was conducted both theoretically (in terms of space and time
 complexity), and experimentally. For experimentation, both real and synthetic
-data was used. 
+data was used. In terms of real data, several long text files were given to test upon.
